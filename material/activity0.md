@@ -58,15 +58,15 @@ If installed, it should return the version number.
 
 ---
 
-## **Step 4: Install and Test `gemma-2b` (Small Conversational AI)**  
+## **Step 4: Install and Test `gemma3:1b` (Small Conversational AI)**  
 
-1. **Download `gemma-2b`**:  
+1. **Download `gemma3:1b`**:  
    ```sh
-   ollama pull gemma2:2b
+   ollama pull gemma3:1b
    ```
-2. **Run `gemma-2b`**:  
+2. **Run `gemma3:1b`**:  
    ```sh
-   ollama run  gemma2:2b
+   ollama run gemma3:1b
    ```
 3. **Ask a general question**:  
    ```sh

@@ -2,7 +2,7 @@
 
 > In part 2 and part 3, the goal **is not to understand the code itself**. Instead, it's an opportunity to `experiment with Google Colab` and become familiar with `using code cells exclusively`.
 
-### Part 1/3: Using Google Colab with Basic Python**
+### Part 1/3: Using Google Colab with Basic Python
 
 **Step 1: Accessing Google Colab**
 - Open your web browser and navigate to [Google Colab](https://colab.research.google.com/).
@@ -108,7 +108,7 @@ plt.ylabel('Frequency')
 plt.show()
 ```
 
-### Part 3/3: Using MNIST Dataset in Google Colab**
+### Part 3/3: Using MNIST Dataset in Google Colab
 
 > In this part, the goal **is not to understand the code itself**. Instead, it's an opportunity to `experiment with Google Colab` and become familiar with `using code cells exclusively`.
 

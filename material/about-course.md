@@ -27,24 +27,26 @@ Why focus on LLMs? Understanding and leveraging large language models is now cri
 ### Learning Outcomes
 
 By completing this course, you will:
-1. Gain practical experience with foundational and advanced ML techniques.
-2. Build skills in applying classification and regression techniques to real-world datasets.
-3. Use NLP tools like BERT and LLMs for advanced problem-solving.
-4. Design and implement hybrid AI systems combining rule-based approaches, ML, and human feedback.
-5. Deliver and present a fully functional AI project that addresses a real-world challenge.
+
+1. Gain **some** practical experience with foundational and introductory advanced ML techniques.
+2. Build **basic** skills in applying classification and regression techniques to real-world datasets.
+3. Learn to use NLP tools, **starting from a high-level perspective**, such as BERT and LLMs, for advanced problem-solving.
+4. Design and implement **simple** hybrid AI systems that combine rule-based approaches, ML, and human feedback.
+5. Deliver a functional AI project that addresses a real-world challenge.
+
 
 ### Assessment
 
 Machine Learning accounts for 60% of your final grade. Your overall grade will be a weighted average of your performance in ML and Cloud Computing. Assessment will include:
 
-- Group Activities: 540 points (50 + 7x 70)
+- Group Activities: **560 points** (7x 80)
   - Weekly hands-on exercises aligned with the session topics.
   - Attendance is required to earn group activity grades. Missed sessions can be compensated with written assignments.
-- Feedback at the End of the Course: 80 points.
-- Group Presentations: 190 points (Tuesday, 6.5.2025).
+- Feedback at the End of the Course: **80 points**.
+- Group Presentations: **100 points** (Tuesday, 6.5.2025).
+- Group Projects: **260 points** (Deadline: 6.5.2025).
   - Details on criteria will be shared separately.
-- Group Projects: 190 points (Deadline: 6.5.2025).
-  - A hybrid AI system tackling a chosen real-world problem.
+  <!-- - A hybrid AI system tackling a chosen real-world problem. -->
 
 #### Grading Scale:
   - Grade 5: 921-1000 points
@@ -53,7 +55,22 @@ Machine Learning accounts for 60% of your final grade. Your overall grade will b
   - Grade 2: 651-720 points
   - Grade 1: 600-650 points
 
+
+
+### Weekly Topics
+
+1. Week 1: ML Foundations and Project Brainstorming
+2. Week 2: Datasets and sklearn Basics
+3. Week 3: Classical ML – Regression and Classification
+4. Week 4: Neural Networks and Deep Learning
+5. Week 5: NLP with BERT
+6. Week 6: Large Language Models (LLMs)
+7. Week 7: AI Agents, Tool Calling, Edge Intelligence (**Tentative**)
+8. Week 8: Project Presentations
+
+
 <!-- 
+
 
 ### Weekly Topics
 
@@ -87,4 +104,4 @@ Machine Learning accounts for 60% of your final grade. Your overall grade will b
    - Topics: Project presentations, discussions, and course wrap-up.
    - Outcome: Students showcase their completed AI projects.
 
- -->
+-->

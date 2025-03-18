@@ -1,4 +1,4 @@
-# # activity 2: Lab Instructions: Exploring Python with Google Colab and Bing Copilot
+# Activity 2: Lab Instructions: Exploring Python with Google Colab and Bing Copilot
 
 #### **1. Getting Started**  
 1. Open [Google Colab](https://colab.research.google.com) and sign in with your Google account.  
@@ -19,7 +19,7 @@
    - "Write a program to iterate over a list and print each element."  
 4. Copy the generated examples into your Colab notebook, run them, and modify the code to experiment further.  
 
-#### **4. Group Task: Mini-Project**  
+#### **4. Group Task:**  
 1. Based on what you've learned, design a small coding project with your group. Instead of writing code manually, ask **Bing Copilot** for suggestions or help. Examples of mini-projects:  
    - A program that calculates the average of a list of numbers.  
    - A game where users guess a randomly generated number.  
@@ -33,5 +33,5 @@
 
 #### **Post-Lab Exploration (Optional)**  
 1. Continue exploring the Kaggle Python tutorials after the lab session and consult Bing Copilot for any challenges you encounter.  
-2. Try enhancing your mini-project or creating a new one using Copilot for coding assistance.  
+2. Try enhancing your group task or creating a new one using Copilot for coding assistance.  
 
