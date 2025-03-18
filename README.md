@@ -29,7 +29,7 @@
 
 - Why?
   - LLMs: Custom vs Proprietary
-  - [Ollama]
+  - [Ollama](https://ollama.com/)
 - What ?
   - [Course Mechanics](./material/about-course.md)
 - How?

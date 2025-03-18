@@ -41,7 +41,7 @@ Machine Learning accounts for 60% of your final grade. Your overall grade will b
 
 - Group Activities: **560 points** (7x 80)
   - Weekly hands-on exercises aligned with the session topics.
-  - Attendance is required to earn group activity grades. Missed sessions can be compensated with written assignments.
+  - Attendance is mandatory to earn grades for group activities. However, missed sessions can be made up during the final weeks of the course.
 - Feedback at the End of the Course: **80 points**.
 - Group Presentations: **100 points** (Tuesday, 6.5.2025).
 - Group Projects: **260 points** (Deadline: 6.5.2025).
