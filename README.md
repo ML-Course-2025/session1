@@ -17,12 +17,16 @@
   - Break (~15min)
   - Mini lecture: Colab, Python Basics, Project Brainstorming
   - Group activity
-- Week 2-8
+- Week 2-7
   - Mini lecture (~35min)
   - Group activity + Break (50min)
   - Mini lecture (~35min)
   - Group activity (~35min)
-
+- Week 8
+  - Group Presentations
+  - Break (~15min)
+  - Group Presentations
+  - Break (~15min) ...  
 ---
 
 ### Part 1: About the course
@@ -35,7 +39,7 @@
 - How?
   - [Vibe coding](https://en.wikipedia.org/wiki/Vibe_coding) e.g. using [Bing Copilot](https://copilot.microsoft.com) vs [LLM as typing assistant](https://en.wikipedia.org/wiki/Vibe_coding#cite_note-:3-1)
   - [Group Formation](./material/teams.md) 
-  - Mini Projects
+  - Mini Projects: Details will be provided later
 - Big Picture
   - Finnish Industry & Custom LLMs
   - AI Agents, RAG etc. (Out of Scope)
@@ -54,6 +58,7 @@
 - [ML vs DL vs AI](https://www.ibm.com/think/topics/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks)
   - [NN vs DL](./material/ml.jpg)
   - NN (on/off) vs human brain (Continuous)
+- [BloombergGPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)
 - Alpaca
   - [Website](https://crfm.stanford.edu/2023/03/13/alpaca.html)
   - [​​How Stanford researchers attempted to make a new ChatGPT with less than $600](https://stanforddaily.com/2023/04/02/how-stanford-researchers-attempted-to-make-a-new-chatgpt-with-less-than-600/)
@@ -64,8 +69,6 @@
   - OLMo family: [www](https://allenai.org/),[GitHub](https://github.com/allenai)
   - [ Mistral AI](https://github.com/mistralai)
   - [S1: The $6 R1 LLM](https://arxiv.org/abs/2501.19393)
-- [BloombergGPT](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)
-
 
 
 <!-- - [Prompting is revolutionizing AI](./material/prompt.png): (Opportunities in AI - Andrew Ng) -->
